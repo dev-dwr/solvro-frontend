@@ -1,0 +1,8 @@
+export const FETCH_POST = 'FETCH_POST';
+export const FETCH_ALL = 'FETCH_ALL';
+
+export const FETCH_POSTS_COUNT = "FETCH_POSTS_COUNT";
+export const ADD_POST_TO_FAVOURITES = "ADD_POST_TO_FAVOURITES";
+
+export const START_LOADING = 'START_LOADING';
+export const END_LOADING = 'END_LOADING';
